@@ -1,9 +1,5 @@
 # Introduction To Cryptography
 
-## Course Overview
-This course is an introductory level course that will introduce the topic of cryptography. We will go over concepts like hashing, symmetric encryption, asymmetric encryption, the caesar cipher, the vigenere cipher, and much more. This course can be officially taken at 'http://www.cosmodiumcs.com/courses/'. Officially enrolling in this course will allow you to get a certificate. You can also get quizzed on your knowledge and have easy access to this course overview.
-
-
 ## Module 0.0.0 - What is Cryptography?
 ### 0.0.1 - Course Requirements
 ### 0.0.2 - Bits & Bytes
