@@ -85,13 +85,13 @@ print(1*1)
 # division
 print(1/1)
 
-# exponets
+# exponents
 print(1**1)
 
 # remainders
 print(1%1)
 
-# quotiants
+# quotients
 print(1//1)
 ```
 
